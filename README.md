@@ -141,6 +141,12 @@
 파이썬: [데이터 분석 프로젝트 보고서](https://github.com/HERO19-71604814/Central-Competency-Development-Institute-Python/blob/6d470c25acb160744057d8179f24e75170ef21f0/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%BC%EC%A0%9C/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C(%EB%B2%94%EC%A3%84%20%EB%B0%9C%EC%83%9D%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%8C%80%EC%B2%98%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88).ipynb)<br>
             </td>
         </tr>
+         <tr>
+            <th>문서</th>
+            <td>
+PPT: [데이터 분석 포트폴리오](https://github.com/HERO19-71604814/Central-Competency-Development-Institute-Python/blob/f37b4c31dd8aa5d5cad41be8e9f7940ef36ec4b9/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%BC%EC%A0%9C/03.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%9E%91%EC%84%B1(%EB%B2%94%EC%A3%84%20%EB%B0%9C%EC%83%9D%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%8C%80%EC%B2%98%EC%99%80%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88).pptx) 
+            </td>
+        </tr>
     </tbody>
 </table>
 </div>
@@ -321,4 +327,5 @@
 
 <!-- 5. 개선 사항(필요 없을 시 주석처리) -->
 # 🔨 개선 사항 🔧
-- 좀더 상세한 데이터 분석이 필요함
+- 🔖 해야 할 작업 목록
+    - 좀더 상세한 데이터 분석이 필요함
